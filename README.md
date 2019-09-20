@@ -47,4 +47,11 @@ if (isAwesome){
     return true
 }
 ```
-    
+
+And now i do tasks list like this:
+
+- [ ] first
+- [ ] second
+- [x] third
+
+Ok. I make some markdown document!
