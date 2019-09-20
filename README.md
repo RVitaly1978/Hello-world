@@ -2,9 +2,9 @@
 
 ## My example
 
-i can do **bolt** and **italic** text.
+i can do **bolt** and *italic* text.
 
-and i can do __bolt__ and __italic__ text this way too.
+and i can do __bolt__ and _italic_ text this way too.
 
 i can do also links like this [почта тут.бая](http://mail.tut.by).
 
@@ -23,3 +23,28 @@ i make unordered lists like this:
     - and new list data
 * list data
 * list data
+
+Also i learn to insert a pictures like this ![kat](http://mail.tut.by/logo.png)
+
+Now i do some quotes:
+> семь раз отмерь, один раз отрежь
+> *- народная мудрость*
+
+i'm a begginer coder and i can code little. For example `let alert("Приветик!")`. Also a copy some code from web:
+
+    if (isAwesome){
+      return true
+    }
+    
+```
+if (isAwesome){
+    return true
+}
+```
+
+```javascript
+if (isAwesome){
+    return true
+}
+```
+    
